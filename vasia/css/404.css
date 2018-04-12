@@ -1,0 +1,14 @@
+h1 {
+    font-size : 300%;
+    font-weight: bolder;
+    letter-spacing:20px ;
+    word-spacing: 11px;
+    line-height: 2.9;
+    font-family: 'cursive', 'fantasy', sans-serif;
+    color: #222222;
+}
+body {
+    background-image:url("../img/AM.jpg");
+    background-position: center;
+    background-size:cover ;
+}

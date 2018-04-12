@@ -1,0 +1,20 @@
+h1 {
+    font-size : 150%;
+    font-weight: 200;
+    letter-spacing:5px ;
+    word-spacing: 5px;
+    line-height: 2.0;
+    font-family: 'Lato', sans-serif;
+    color: #2F4F4F;
+}
+body {
+    background-image:url("../img/index.jpg");
+    background-size:cover ;
+}
+img {
+    display: block;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
